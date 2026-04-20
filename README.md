@@ -14,4 +14,4 @@ Fetches real-time weather data using OpenWeatherMap API.
 - Fetch API with async/await
 
 ## Live Demo
-(add GitHub Pages link here later)
+https://github.com/Suhas07-H/weather-app/edit/main/README.md
