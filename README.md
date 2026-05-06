@@ -5,7 +5,7 @@ Fetches real-time weather data using OpenWeatherMap API.
 
 ## Features
 - Search weather by city name
-- Displays temperature, description and weather icon
+- Displays temperature, description and weather icon.
 - Error handling for invalid city names
 
 ## Tech Stack
